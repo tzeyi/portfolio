@@ -8,7 +8,7 @@ import { useState, useEffect, useRef } from 'react';
 
 const ResumeButton = ({ className = "", isDesktop = false }) => {
   const handleResumeClick = () => {
-    window.open('/TyTiong_Resume.pdf', '_blank');
+    window.open('/TiongTzeYi_Resume.pdf', '_blank');
   };
 
   return (
